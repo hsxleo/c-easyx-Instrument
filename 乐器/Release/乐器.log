@@ -1,0 +1,21 @@
+﻿  源.cpp
+E:\program\c++\游戏设计\乐器\乐器\源.cpp(293,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+E:\program\c++\游戏设计\乐器\乐器\源.cpp(294,8): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\program\c++\游戏设计\乐器\乐器\源.cpp(344,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+E:\program\c++\游戏设计\乐器\乐器\源.cpp(345,8): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\program\c++\游戏设计\乐器\乐器\源.cpp(444,16): warning C4305: “初始化”: 从“int”到“char”截断
+E:\program\c++\游戏设计\乐器\乐器\源.cpp(444,12): warning C4309: “初始化”: 截断常量值
+E:\program\c++\游戏设计\乐器\乐器\源.cpp(446,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+E:\program\c++\游戏设计\乐器\乐器\源.cpp(447,8): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\program\c++\游戏设计\乐器\乐器\源.cpp(453,10): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+E:\program\c++\游戏设计\乐器\乐器\源.cpp(454,12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\program\c++\游戏设计\乐器\乐器\源.cpp(465,10): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+E:\program\c++\游戏设计\乐器\乐器\源.cpp(466,12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\program\c++\游戏设计\乐器\乐器\源.cpp(477,10): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+E:\program\c++\游戏设计\乐器\乐器\源.cpp(478,12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  正在生成代码
+  3 of 47 functions ( 6.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  乐器.vcxproj -> E:\program\c++\游戏设计\乐器\Release\乐器.exe
